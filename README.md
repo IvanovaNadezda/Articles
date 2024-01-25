@@ -1,4 +1,4 @@
-# Articles
+# Научные статьи в ИТ области
 1. BI-аналитика и построение интерактивных отчетов для управления ИТ-проектом в современном мире (дата публикации: **31.12.2023**, ссылка на сборник: https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F9ng7W50trGg9ACN4FWkcdqFcdwsiWHe%2BcP39ECZFnfSsJKy1T23IE5tjvqHwJXyhq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%9C%D0%9F%D0%9A.%20%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C%202023.%20%D0%A2%D0%BE%D0%BC%203.pdf&nosw=1, Международный научно-практический электронный журнал «МОЯ ПРОФЕССИОНАЛЬНАЯ КАРЬЕРА». Выпуск №55 (том 3), с. 261-265)
 
 2. Построение дашбордов на платформе PIX BI  и ряд приемуществ перед MS Excel (дата публикации: **31.12.2023**, ссылка на сборник: https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F9ng7W50trGg9ACN4FWkcdqFcdwsiWHe%2BcP39ECZFnfSsJKy1T23IE5tjvqHwJXyhq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%9C%D0%9F%D0%9A.%20%D0%94%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C%202023.%20%D0%A2%D0%BE%D0%BC%203.pdf&nosw=1, Международный научно-практический электронный журнал «МОЯ ПРОФЕССИОНАЛЬНАЯ КАРЬЕРА». Выпуск №55 (том 3), с. 266-270)
